@@ -1,0 +1,8 @@
+{
+  "name": "协作分发包的跨文件分片选择性领取",
+  "probe": "/distribution",
+  "identityFields": [
+    "manifest",
+    "path"
+  ]
+}
