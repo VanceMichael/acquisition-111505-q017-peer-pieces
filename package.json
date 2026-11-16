@@ -10,6 +10,7 @@
     "build": "node scripts/check.mjs",
     "test": "node --test test/*.test.mjs",
     "start": "node scripts/start.mjs",
+    "collect": "node scripts/collect.mjs",
     "demo": "node scripts/demo.mjs"
   }
 }
